@@ -18,7 +18,7 @@
     "web-vitals": "^2.1.4",
     "xlsx": "^0.18.5"
   },
-  "homepage": "https://myusername.github.io",
+  "homepage": "https://stprod.github.io",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -b master -d build",
